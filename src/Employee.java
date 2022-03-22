@@ -24,6 +24,7 @@ public class Employee {
         for (int j = 0; j <arr.length; j++) {
            // c= new int[]{arr[j]};
             System.out.print(arr[j]+" ");
+            System.out.println("HEllo");
         }
 
     }
