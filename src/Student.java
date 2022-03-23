@@ -8,6 +8,7 @@ public class Student {
         int [] a1={1,3,4};
         int []a2={1,3,4};
         System.out.println(Arrays.equals(a1,a2));
+        System.out.println("code working");
        /* System.out.println(Arrays.toString(sc));
         Arrays.sort(sc);
         System.out.println(Arrays.toString(sc));

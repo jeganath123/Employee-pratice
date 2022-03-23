@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="116ddb87-b0fc-4b84-b6a1-18b622738be1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -74,7 +77,8 @@
       <updated>1646229464630</updated>
       <workItem from="1646229470965" duration="15594000" />
       <workItem from="1646312599335" duration="3157000" />
-      <workItem from="1647922517043" duration="965000" />
+      <workItem from="1647922517043" duration="2334000" />
+      <workItem from="1647961554112" duration="1251000" />
     </task>
     <servers />
   </component>
@@ -82,6 +86,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1647926574905">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1647926574905" />
     <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1646317112230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -114,14 +122,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1646317112230" />
-    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1646312613611">
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1647961553674">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1646312613611" />
-    <state x="91" y="0" key="new project wizard" timestamp="1646317109924">
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1647961553674" />
+    <state x="91" y="0" key="new project wizard" timestamp="1647984476558">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1646317109924" />
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1647984476558" />
     <state x="297" y="151" key="run.anything.popup" timestamp="1646250512013">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
